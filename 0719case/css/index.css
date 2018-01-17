@@ -1,0 +1,66 @@
+#wrap{
+    width:641px;
+    height:641px;
+}
+body{
+    font-size: 13px;
+    font-family: '宋体';
+    margin: 0;
+}
+p{
+    margin: 0;
+    padding:0;
+    margin-bottom: 20px;
+}
+section{
+    display: inline-block;
+    color: #0082cb;
+    float: right;
+    margin-right: 165px;
+}
+span{
+    display: inline-block;
+}
+#box{
+    margin-left: 24px;
+    margin-top: 13px;
+}
+.red{
+    color: #ff4874;
+}
+.intr{
+    width:224px;
+    height: 52px;
+    border:1px solid #efefef;
+}
+.bintr{
+    display: inline-block;
+    width:224px;
+    height: 52px;
+    border-top:1px solid #c4c7bd
+}
+.ones{
+    font:13px/52px '宋体';
+}
+.turn{
+    border: 1px solid #a5c760;
+    background-color: #f4ffd4;
+}
+.turn:target{
+    display: block;
+}
+.separation{
+    height: 20px;
+    width: 225px;
+    border-bottom: 1px dotted #9f9f9f;
+}
+.inp{
+    width:224px;
+    height:26px;
+    border:1px solid #999999;
+    padding: 0;
+}
+.inp:focus{
+    border:1px solid #a5c760;
+    background-color: #f4ffd4;
+}

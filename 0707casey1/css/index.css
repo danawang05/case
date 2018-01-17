@@ -1,0 +1,42 @@
+#wrap{
+    width:889px;
+    height: 258px;
+    border:1px solid #e8e8e8;
+}
+.up_half li{
+    display: inline-block;
+    text-decoration:none;
+}
+.up_half ul{
+    margin: 0;
+    padding: 0;
+}
+.up_show{
+    width:416px;
+    height: 108px;
+    padding:14px;
+    border:1px solid #ffa0df;
+}
+.word{
+    display: block;
+    font:12px/24px "宋体";
+}
+.header{
+    font-size: 13px;
+    font-family: "宋体";
+}
+.down_show{
+    width:416px;
+    height: 107px;
+    padding:14px;
+    border: 1px solid #ffa0df;
+}
+.up_half li img{
+    display: inline-block;
+}
+.down_show span{
+    font:13px/20px "宋体";
+}
+.left_down{
+    display: inline-block;
+}

@@ -1,0 +1,124 @@
+#wrap{
+    width:1581px;
+    height:1138px;
+    background: #dbd8cc;
+    color: #fff;
+}
+#box{
+    position: relative;
+    /*width:1019px;*/
+}
+.logo span{
+    display: block;
+}
+.tit{
+    font-size: 37px;
+    font-family: '宋体';
+    color:#ffffff;
+}
+.tit2{
+    font-size:12px;
+    color: #ffffff;
+}
+.logo{
+    position: absolute;
+    top:36px;
+    left:386px;
+}
+.contact span{
+    display: inline-block;
+    font-size: 11px;
+    color:#bdc3d8;
+    border-right: 1px solid #bdc3d8;
+    padding-right: 9px;
+    padding-left: 10px;
+    line-height: 11px;
+}
+.contact.de{
+    border-right: none;
+}
+.contact{
+    position: absolute;
+    top:20px;
+left:1151px;
+
+}
+.nav{
+    position: absolute;
+    top:58px;
+    left:749px;
+}
+.item{
+    float: left;
+    color: #fff;
+    width:75px;
+    height: 47px;
+    background-color: #fff;
+    color: #94dffb;
+    margin-right: 1px;
+    font:14px/47px '宋体';
+    text-align: center;
+}
+.subitem{
+    display: none;
+    width:526px;
+    height: 333px;
+    font-size:14px;
+    color:#163568;
+}
+.func{
+    display: block;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top:462px;
+    left:299px;
+}
+.cube{
+    display: inline-block;
+    width:79px;
+    height: 72px;
+    background-color: #0f820c;
+    font-size: 11px;
+    text-align: center;
+    margin-right: 96px;
+}
+.project{
+    position: absolute;
+    width:1003px;
+    height:484px;
+    background-color: #fff;
+    border: 8px solid #2e78e7;
+    top:544px;
+    left:281px;
+    color: #0e3757;
+}
+.title h5{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+.clearFlex{
+    content: '';
+    display: block;
+    clear: both;
+}
+.project ul{
+    margin: 0;
+    padding: 0;
+}
+.project li{
+    list-style: none;
+}
+.slideone{
+    float: left;
+}
+.footer{
+    position:absolute;
+    left: 281px;
+
+}
+.left{
+    display: inline-block;
+    float: left;
+}

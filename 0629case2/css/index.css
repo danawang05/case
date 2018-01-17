@@ -1,0 +1,13 @@
+#wrap{
+    margin: 0 auto;
+    width:500px;
+    height:40px;
+    border:1px solid #444444;
+}
+#content{
+    text-align: center;
+    font:14px/40px '宋体';
+    word-spacing: 20px;
+    line-height:40px ;
+    font-weight: 300;
+}

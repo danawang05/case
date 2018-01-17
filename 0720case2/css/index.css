@@ -1,0 +1,242 @@
+#wrap{
+    width:982px;
+    height: 718px;
+    background-color: #f9f9f9;
+    position: relative;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.header{
+    margin-left: 11px;
+    height: 27px;
+    padding: 30px 0px 24px 0px;
+}
+.header .tit{
+    display: inline-block;
+    font:16px/26px '宋体';
+    color: #5b5a59;
+    border-left: 1px solid #cccccc;
+    text-indent: 12px;
+    position: absolute;
+    top:30px;
+}
+.header img{
+    padding-right: 22px;
+}
+.footer span{
+    font-size: 12px;
+    color: #999999;
+}
+.footer{
+    position: absolute;
+bottom: 24px;
+    left:222px;
+}
+.content{
+    position: absolute;
+    left: 11px;
+    top: 81px;
+    width:958px ;
+    height: 583px;
+    border:1px solid #e0e0e0;
+    border-radius: 5px 5px 0 0 ;
+    display: inline-block;
+}
+.slide{
+    position: absolute;
+    top:36px;
+    left: 643px;
+    border-left: 1px solid #e0e0e0;
+    height: 546px;
+}
+.subtitle{
+    height:37px;
+    background: url("../img/blue.gif") repeat-x;
+    font:14px/37px '宋体';
+    color: #ffffff;
+    text-indent: 21px;
+    border-radius: 5px 5px 0 0 ;
+}
+.contact{
+    float: right;
+}
+.button{
+    position: relative;
+    width: 332px;
+    margin-top: 50px;
+    border: 1px solid #b5b5b5;
+    border-radius: 5px;
+height: 33px;
+    margin-left: 145px;
+}
+.letter{
+    width:166px;
+    height:33px ;
+    font:14px/32px '宋体';
+    color: #ffffff;
+    background-color: #1b63ac;
+    border-radius: 5px 0 0 5px;
+    border: none;
+    display: inline-block;
+}
+.tele{
+    position: absolute;
+    width:165px;
+    height:33px ;
+    font:14px/32px '宋体';
+    color: #555555;
+    background-color: #ffffff;
+    border: none;
+    display: inline-block;
+    left: 167px;
+    border-radius: 0 5px 5px 0;
+}
+.mail{
+    width: 210px;
+    margin-left: 11px;
+    height: 25px;
+    border-radius: 5px;
+    border:1px solid #b5b5b5;
+}
+.pword{
+     margin-left: 11px;
+     height: 25px;
+     border-radius: 5px;
+     border:1px solid #b5b5b5;
+ }
+.conf{
+     margin-left: 11px;
+     height: 25px;
+     border-radius: 5px;
+     border:1px solid #b5b5b5;
+ }
+.ver{
+     margin-left: 11px;
+     height: 25px;
+     border-radius: 5px;
+     border:1px solid #b5b5b5;
+ }
+.agree{
+    font-size: 10px;
+    color: #999999;
+}
+.agr{
+    margin-left: 145px;
+
+    margin-top: 26px;
+    margin-bottom:20px ;
+
+}
+.reg{
+    margin-left: 145px;
+    height: 35px;
+    background-color: #53ad3f;
+    color: #ffffff;
+    text-align: center;
+    font-size: 14px;
+}
+.e{
+    margin-left: 5px;
+    font:14px/24px '宋体' ;
+    color: #555555;
+}
+.email{
+    margin-top: 34px;
+}
+.starone{
+    margin-left: 65px;
+    font:14px/24px '宋体' ;
+    color: #cd003f;
+}
+.email select{
+    height: 25px;
+}
+.email span{
+    font:14px/24px '宋体' ;
+    color: #555555;
+}
+.subw{
+    display: block;
+    font-size:12px;
+    margin-top: 12px;
+    margin-left: 136px;
+    margin-bottom: 23px;
+}
+.startwo{
+    margin-left: 85px;
+    font:14px/24px '宋体' ;
+    color: #cd003f;
+}
+.p{
+    margin-left: 5px;
+    font:14px/24px '宋体' ;
+    color: #555555;
+}
+.subp{
+    display: block;
+    font-size:12px;
+    margin-top: 12px;
+    margin-left: 136px;
+    margin-bottom: 23px;
+}
+.starthree{
+    margin-left: 55px;
+    font:14px/24px '宋体' ;
+    color: #cd003f;
+}
+.r{
+    margin-left: 5px;
+    font:14px/24px '宋体' ;
+    color: #555555;
+}
+.subr{
+    display: block;
+    font-size:12px;
+    margin-top: 12px;
+    margin-left: 136px;
+    margin-bottom: 23px;
+}
+.starfour{
+    margin-left: 70px;
+    font:14px/24px '宋体' ;
+    color: #cd003f;
+}
+.v{
+    margin-left: 5px;
+    font:14px/24px '宋体' ;
+    color: #555555;
+}
+.subv{
+    display: block;
+    font-size:12px;
+    margin-top: 12px;
+    margin-left: 136px;
+    margin-bottom: 0px;
+}
+.vpic{
+    position: absolute;
+    top: 386px;
+    left: 325px;
+}
+.vpic img{
+    display: block;
+}
+.vpic span{
+    font-size: 12px;
+    line-height: 30px;
+    color: #003399;
+    text-align: center;
+}
+.more{
+    height: 12px;
+    font-size:11px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-right: 1px solid #a899a8;
+    color: #003399;
+}
+.de{
+    border-right: none;
+}

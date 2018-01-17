@@ -1,0 +1,23 @@
+#wrap{
+    width: 206px;
+    height: 273px;
+
+    border: 1px solid #c60203;
+
+}
+#pic{
+    margin: 10px 5px 5px 10px;
+}
+.words{
+    display: block;
+font: 12px/22px "宋体";
+    color:#5a5d5a;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.fr{
+    float: right;
+}
+a:hover{
+    color: #c60303;
+}

@@ -1,0 +1,88 @@
+#wrap{
+    width:751px;
+    height: 635px;
+    background-color: #fffff9;
+}
+h3{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    font: 17px/37px "宋体";
+    color:#666666;
+}
+.header{
+    width: 697px;
+    padding-top: 5px;
+    padding-left: 23px;
+border-bottom: 1px solid #dddddd;
+}
+.h{
+    display: inline-block;
+    float: right;
+    padding-right: 36px;
+    padding-top: 18px;
+}
+#up{
+    padding-left: 23px;
+    padding-top: 22px;
+
+}
+#down{
+    padding-left: 23px;
+    padding-top: 27px;
+}
+.content{
+    float: left;
+    width: 129px;
+    height:253px;
+    padding-right: 16px;
+
+}
+.h{
+    font-size: 11px;
+    font-family: "宋体";
+}
+.name{
+    display: inline-block;
+    font-size:14px;
+    font-family: "宋体";
+    color:#825d5b;
+}
+.author{
+    display: inline-block;
+    font-size:11px;
+    font-family: "宋体";
+}
+.price{
+    display: inline-block;
+    font-size: 11px;
+    font-family: "宋体";
+    color:#825d5b;
+}
+.sign{
+    font-size: 12px;
+    font-family: "宋体";
+    color:#999999;
+}
+
+.content em{
+    font-style: normal;
+    display: none;
+    width: 110px;
+    height: 148px;
+    background-color:rgba(255,255,249,0.5);
+    margin-top: -500px;
+}
+.sh span{
+padding-left: 9px;
+    font:700 12px/24px "宋体";
+
+}
+.sh p{
+    padding-left: 9px;
+    font-size:12px;
+    font-family:"宋体";
+}
+.content:hover em{
+    display: inline-block;
+}

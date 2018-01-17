@@ -1,0 +1,42 @@
+#layer1{
+    width: 100px;
+    height: 100px;
+    background: #96ff38;
+    border: 5px solid #fcff00;
+    margin: 50px;
+}
+#layer2{
+    width: 208px;
+    height: 208px;
+    background: #ffa0df;
+    border: 1px dotted #ffffff;
+    margin:3px;
+}
+#layer3{
+    width: 216px;
+    height: 216px;
+    background: #ffa0df;
+    border: 1px dashed #ffffff;
+    margin: 41px;
+}
+#layer4{
+    width: 298px;
+    height: 298px;
+    background-color: #ffa0df;
+    margin:20px;
+    border:1px solid #ffa0df;
+}
+#layer5{
+    width: 340px;
+    height: 340px;
+    background: #f6f6f6;
+    border: 5px solid #d7effe;
+    margin:27px;
+}
+#layer6{
+    margin: 0 auto;
+    width: 404px;
+    height: 404px;
+    background: #ffffff;
+    border: 1px dotted #000000;
+}

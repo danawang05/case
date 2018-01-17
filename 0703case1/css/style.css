@@ -1,0 +1,40 @@
+#header{margin: 0 auto;}
+#wrap{
+    width: 252px;
+    height: 265px;
+    border:1px solid #cccccc;
+    margin: -11px 0px 0px 5px;
+    background-color: #f1f1f1;
+}
+#box{
+    height: 264px;
+    border: 1px solid #f8f8f8;
+    border-top: 0;
+
+}
+a{
+    display: block;
+    width: 190px;
+    height: 26px;
+    border-bottom: 1px dotted #959595;
+    text-decoration: none;
+
+}
+a:hover{
+
+    color: #6600b5;
+    border-bottom: 1px dotted #ff4800;
+    background: #ffffff url("../img/tri.gif") no-repeat 3px 17px;
+}
+.content{
+    margin: 0 auto;
+    background:  url("../img/tri.gif") no-repeat 3px 17px;
+    font-size: 10px;
+    font-family: "宋体";
+    color: #959595;
+    padding-left:14px;
+    padding-top: 7px;
+    text-align: left;
+    line-height: 23px;
+
+}

@@ -1,0 +1,19 @@
+body{
+    font-size: 24px;
+}
+#wrap{
+    width: 1034px;
+    height: 234px;
+}
+.content ul{
+    margin: 0;
+    padding: 0;
+
+}
+.content li{
+    list-style: none;
+    display: inline-block;
+}
+.content img{
+    vertical-align: middle;
+}

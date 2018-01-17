@@ -1,0 +1,157 @@
+#wrap{
+    width: 645px;
+    height: 983px;
+    background: url("../img/bg.gif");
+}
+#wbox{
+    width: 354px;
+    height: 652px;
+
+    padding: 123px 0px 0px 118px ;
+}
+#main{
+    width: 397px;
+    height: 703px;
+    border: 1px solid #cc5453;
+    background-color: #fff;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+.left ul,.right ul,.down ul{
+    margin: 0;
+    padding: 0;
+}
+.up span{
+color: #ce5157;
+}
+.down{
+    padding-top: 4px;
+}
+.down li{
+    list-style: none;
+    font: 12px/31px '宋体';
+    background: url("../img/point.gif")no-repeat 0px 12px  ;
+    padding-left: 14px;
+}
+.left li,.right li{
+    list-style: none;
+    font: 12px/31px '宋体';
+    background: url("../img/point.gif")no-repeat 0px 12px  ;
+    padding-left: 14px;
+}
+.pic{
+    float: left;
+}
+#box{
+    width: 440px;
+    height: 733px;
+    background: url("../img/column.gif");
+    border: 1px solid #cc5453;
+}
+.header{
+    height: 58px;
+}
+.content{
+    width: 370px;
+    padding-left: 19px;
+    padding-right: 19px;
+    border-bottom: 1px solid #d54f58;
+    border-top: 1px solid #d54f58;
+    margin-bottom: 2px;
+}
+.content1{
+    width: 359px;
+    padding-left: 19px;
+    padding-right: 19px;
+    border-bottom: 1px solid #d54f58;
+    border-top: 1px solid #d54f58;
+    margin-bottom: 2px;
+}
+.det{
+    border-top: none;
+}
+.deb{
+    border-bottom: none;
+}
+.pic{
+    width:128px;
+    height: 178px;
+    background-color: #ffffff;
+    border: 1px solid #b5b5b5;
+}
+.pic img{
+    padding: 4px;
+}
+.up p{
+    margin: 0;
+    font: 12px/26px '宋体';
+    color:#777777;
+    padding-bottom: 1px;
+
+}
+.duni{
+    width: 340px;
+}
+.up{
+    border-bottom: 1px dashed #e8e8e8;
+}
+.right1{
+    width: 219px;
+padding-left: 13px;
+    float: right;
+    margin-bottom: 20px;
+}
+
+.clearFlex:after{
+    content:'';
+    display: block;
+    clear: both;;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.h1{
+    height: 286px;
+}
+.h2{
+    height: 202px;
+}
+.h3{
+    height: 207px;
+}
+.p1{
+    background: url("../img/weather.gif")no-repeat 0px 22px;
+}
+.p2{
+    background: url("../img/heart.gif")no-repeat 0px 22px;
+}
+.p3{
+    background: url("../img/drug.gif")no-repeat 0px 22px;
+}
+.title{
+    font-size:18px;
+    line-height: 58px;
+    font-family: '宋体';
+    color: #ce5157;
+    padding-left: 25px;
+
+}
+.dec{
+    color: #ce5157;
+    padding-left: 8px;
+}
+.more{
+    color: #ce5157;
+    font-size: 13px;
+    font-family: '宋体';
+    padding-left: 9px;
+}
+.sub{
+    font-size: 15px;
+    font-family: '宋体';
+    color: #000000;
+    padding-bottom: 15px;
+}

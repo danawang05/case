@@ -1,0 +1,61 @@
+body{
+    font-size: 12px;
+}
+#wrap{
+    width:898px;
+    height:354px ;
+}
+#box{
+    width:879px;
+    height: 250px;
+    border:1px solid #e8e8e8;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+ul{
+    margin:0;
+    padding:0;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+.first,.second,.third,.fouth{
+    float: left;
+}
+.mininav,.content{
+    margin-left: 15px;
+}
+.mininav li{
+    font: 15px/22px '宋体';
+    text-align: center;
+    border-right: 1px solid #e8e8e8;
+    padding-right: 16px;
+    width: 91px;
+}
+.mininav{
+    margin-top: 9px;
+}
+.content{
+    margin-top: 19px;
+}
+.first,.second,.third{
+    margin-right: 10px;
+}
+.content li{
+    font:12px/30px '宋体';
+    margin-right: 6px;
+}
+.footer{
+    margin-top: 12px;
+}
+.mininav a:hover{
+    display: block;
+    height: 30px;
+    width: 91px;
+    border-top: 2px solid #ff4400;
+    color: #000000;
+    font-weight: 700;
+}

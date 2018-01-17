@@ -1,0 +1,50 @@
+
+#wrap{
+    width: 224px;
+    height: 342px;
+    background: #ffffff;
+    margin: 0 auto;
+}
+#content{
+    width: 139px;
+    border:1px solid #a8a8a8;
+    background: #f4f4f4;
+    border-bottom: 1px solid #a6a6a6;
+    margin: 0 auto;
+}
+
+#content1{
+height: 59px;
+    background: url("../img/triangel.gif"),url("../img/check.gif"),url("../img/triangel.gif");
+    background-repeat: no-repeat,no-repeat,no-repeat;
+    background-position:132px 6px,7px 26px,132px 42px;
+}
+#content2{
+height:98px;
+    background: url("../img/point.gif") no-repeat 7px 65px;
+}
+#content3{
+    padding-top: 4px;
+height: 22px;
+    background: url("../img/triangel.gif") no-repeat 132px;
+}
+#content4{
+height: 44px;
+
+}
+#content5{
+height: 43px;
+    border-bottom: 0;
+    padding-top: 1px;
+    background: url("../img/triangel.gif") no-repeat 132px;
+}
+.item{
+    /*width:139 px;*/
+    font: 11px/18px  "宋体";
+    line-height: 20px;
+    font-weight: 300px;
+    white-space: nowrap;
+    padding-left:19px;
+    border-bottom: 1px solid #a6a6a6;
+    margin: 0 auto;
+}

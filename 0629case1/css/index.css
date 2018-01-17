@@ -1,0 +1,51 @@
+#div{
+    margin: 0;
+    padding: 0;
+}
+#wrapper {
+    width: 353px;
+    height: 390px;
+}
+
+#l1,
+#l2,
+#l3,
+#l4,
+#l5,
+#l6,
+#l7 {
+
+    height: 40px;
+    border-bottom: 10px solid #c6cad7;
+}
+
+#l8 {
+    height: 40px;
+}
+
+#pink {
+    background: #fceef1;
+    width: 81px;
+    position: absolute;
+    text-align:center;
+    font-weight:300;
+    font-size: 15px;
+    line-height: 40px;
+}
+
+#triangel {
+    position: absolute;
+    top: 16px;
+    right: -4px;
+    border-top: 4px solid transparent;
+    border-bottom: 4px solid transparent;
+    border-left: 4px solid #fceef1;
+}
+
+#detail {
+    float: right;
+    word-spacing: 43px;
+    text-align:left;
+    font-weight:200;
+    line-height: 40px;
+}

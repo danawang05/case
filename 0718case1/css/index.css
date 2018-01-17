@@ -1,0 +1,32 @@
+body{
+    font-size: 12px;
+}
+#wrap{
+    margin: 0 auto;
+    width:430px;
+    height:279px;
+    border:1px solid #ffffff;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+.left .up{
+    margin-bottom: 3px;
+}
+.left{
+    float: left;
+}
+.middle{
+    float: left;
+    margin: 0 9px;
+}
+.right{
+    float: left;
+}
+.right .up{
+    margin-bottom: 3px;
+}
